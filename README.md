@@ -110,11 +110,12 @@ Images to demonstrate the user interface:
 
 1. *Landing Page:*
    ![Landing Page Mockup](media/LoadingPage.png)
+   ![Image](https://github.com/user-attachments/assets/c703231b-81e1-460e-bbe6-10ab24e01c16)
 
-2. *Dashboard:*
+3. *Dashboard:*
    ![Dashboard Mockup](media/DashBoard.png)
 
-3. *Analytics View:*
+4. *Analytics View:*
    ![Analytics Mockup](media/Analytics.png)
 
 ---
