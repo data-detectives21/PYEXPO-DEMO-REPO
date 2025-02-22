@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-*Problem Statement ID – xxxxx*
+*Problem Statement ID – 118*
 
 Formulate your problem statement clearly and concisely.
 
@@ -18,18 +18,16 @@ Provide an overview of the project, its purpose, and what it aims to achieve alo
 
 ## Team Members
 
-*Team ID – xxxxx*
+*Team ID – T021*
 
 List your team members along with their roles.
 
-- *Member 1* - Team Leader
-- *Member 2* - Role
-- *Member 3* - Role
-- *Member 4* - Role
-- *Member 5* - Role
-- *Member 6* - Role
-- *Member 7* - Role
-- *Member 8* - Role
+- *Member 1-sundharam* - Team Leader
+- *Member 2-sanjay* - frontend
+- *Member 3-yazhini* - frontend
+- *Member 4-sowdeswari* - backend,database
+- *Member 5-sri harini* - django
+- *Member 6-abarnaa* - overview
 
 ![Team Photo](media/team-photo.png)
 
@@ -39,10 +37,10 @@ List your team members along with their roles.
 
 List the technologies and tools used in the project. For example:
 
-- *Frontend:* HTML, CSS, JavaScript, ReactJS
-- *Backend:* Flask, Django
-- *Database:* MongoDB, MySQL
-- *Other Tools:* Docker, Git, TensorFlow
+- *Frontend:* HTML
+- *Backend:* Django
+- *Database:* MySQL
+- *Other Tools:* github
 
 ---
 
